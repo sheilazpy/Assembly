@@ -1,4 +1,4 @@
 Assembly
 ========
 
-Assorted assembly code for the Freescale HCS12
+Assorted assembly code for a Freescale HCS12, running on a Freescale MCU project board
